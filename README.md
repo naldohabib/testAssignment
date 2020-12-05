@@ -1,6 +1,6 @@
 # testAssignment
 
-### 1. Setalah membuka file golang, terlebih dahulu menuliskan perintah dibawah ini, dmana perintah tersebut berguna untuk mendownload semua tools dan library yang digunakan.
+### 1. Setalah membuka file golang, jalankan perintah dibawah ini
        perintah "go mod tidy"
 ### 2. Sebelum menjalankan golang, terlebih dahulu kita setup connection to database.
        Berada di dalam folder "config.json"
