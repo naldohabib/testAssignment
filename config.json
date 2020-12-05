@@ -1,8 +1,8 @@
 {
   "port": {
-    "port": "6060"
+    "port": "{portRouting}"
   },
   "database": {
-    "postgres": "postgres://postgres:naldo@127.0.0.1:5432/tests1?sslmode=disable"
+    "postgres": "postgres://postgres:{passDB}@{host}:{portDefaultDB}/{nameDB}?sslmode=disable"
   }
 }
